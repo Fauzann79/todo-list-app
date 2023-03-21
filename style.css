@@ -1,0 +1,66 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    margin: auto;
+    padding: 80px;
+
+}
+
+.container {
+    background-color: white;
+    border-radius: 16px;
+    width: 100%;
+    padding: 24px;
+    margin: auto;
+    box-shadow: 5px 5px 7px 5px rgba(186, 186, 186, 0.64);
+}
+
+h1 {
+    text-align: center;
+}
+
+#input {
+    margin-bottom: 16px;
+}
+
+.form {
+    margin-top: 24px;
+}
+
+.form-control {
+    width: 90%;
+}
+
+#submitBtn {
+    margin-top: 16px;
+}
+
+ul {
+    list-style: none;
+    margin-left: -24px;
+    padding: 10px;
+}
+
+.pp {
+    margin: auto;
+    text-align: center;
+}
+
+.div2 {
+    display: flex;
+    padding-top: 16px;
+    align-items: center;
+    justify-content: center;
+    padding-left: 10px;
+    font-family: 'Roboto Mono', monospace;
+    padding-right: 10px;
+    margin: 0;
+    border-bottom: 1px solid black;
+    word-spacing: 0.2em;
+    border-width: 100%;
+    padding-bottom: 8px;
+    font-size: 20px;
+    margin: auto;
+}
